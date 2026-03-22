@@ -104,7 +104,7 @@ static int ask_quality(const char*name){
     printf("         largest file size\n\n");
     printf("    3  - default\n");
     printf("         good balance\n\n");
-    printf("    7  - maximum compression\n");
+    printf("    10  - maximum compression\n");
     printf("         smaller file, slight loss\n\n");
     printf("  Enter 0-10 and press Enter: ");
     fflush(stdout);
