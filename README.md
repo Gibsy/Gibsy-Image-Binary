@@ -2,7 +2,7 @@
 Gibsy's Image Binary - image format using ZSTD
 # BUILD
 ### Build on Windows (MSYS2)
-1. Install MSYS2 and open it
+1. Install MSYS2 and open it ( MSYS2 UCRT64 )
 2. Install dependencies
 ```bash
 pacman -S mingw-w64-ucrt-x86_64-gcc \
